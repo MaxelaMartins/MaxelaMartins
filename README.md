@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Olá! Tudo bem ?  Estou  Chegando agora por aqui , espero conhcer muitos apaixonados  por tecnologia . Sou formada em TI pelo IFCE e  sou Acadêmica  de Engenharia de Computação pela UFC.  
+Olá! Tudo bem ?  Estou  Chegando agora por aqui , espero conhcer muitos apaixonados  por tecnologia . Sou Tecnica em informática pelo IFCE e atualmente estou concluindo o curso de Engenharia de Computação na UFC.   
 <!---
 MaxelaMartins/MaxelaMartins is a ✨ speal ✨ repository because its `README.md` (this file) appears on your GitHub profi
 You can click the Preview link to take a look at your changes.

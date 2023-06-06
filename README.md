@@ -1,11 +1,10 @@
+## Olá Ferinhas !
 
-Olá Ferinhas  ! 
+
+<img align="center" width="250px" style="margin-top:-20px" src="https://github.com/MaxelaMartins/MaxelaMartins/assets/84980724/76818de9-fcdb-41d7-a3b6-41ec5c718286">
 
 
-<img width="300px" align="right" src="https://github.com/MaxelaMartins/MaxelaMartins/assets/84980724/83067af4-e8b3-4112-963d-fe19193c1857)">
-
-</br>## Contato
-
+## Contats:
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

@@ -4,8 +4,12 @@
 <img align="center" width="250px" style="margin-top:-20px" src="https://github.com/MaxelaMartins/MaxelaMartins/assets/84980724/76818de9-fcdb-41d7-a3b6-41ec5c718286">
 
 
+
 ## Contats:
 <div>
+  
+<img width="300px" align="right" src="https://github.com/MaxelaMartins/MaxelaMartins/assets/84980724/1b929d8e-d386-4ff2-8e6e-42d185314070">
+  
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>

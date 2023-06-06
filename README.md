@@ -1,5 +1,6 @@
-OLÁ fERINHAS 
-## Contatos:
+<img align="right" width="250px" style="margin-top:-20px" src="
+</br>
+</br>## Contatos
 
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -18,4 +19,3 @@ OLÁ fERINHAS
 </div>
 
 ##  Estou aprendendo  :
-![Desenho Maxela](https://github.com/MaxelaMartins/MaxelaMartins/assets/84980724/4e73a4c9-01d2-448f-97bb-346454f320ee)

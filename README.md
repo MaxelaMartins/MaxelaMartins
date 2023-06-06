@@ -2,8 +2,6 @@
 Olá Ferinhas  ! 
 
 
-![git1-removebg-preview](https://github.com/MaxelaMartins/MaxelaMartins/assets/84980724/0cffd43c-5ab7-4b1b-a13a-7cf794edcd65)''
-
 
 </br>## Contato
 

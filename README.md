@@ -2,6 +2,7 @@
 Olá Ferinhas  ! 
 
 
+<img width="300px" align="right" src="https://github.com/MaxelaMartins/MaxelaMartins/assets/84980724/83067af4-e8b3-4112-963d-fe19193c1857)">
 
 </br>## Contato
 

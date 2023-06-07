@@ -3,7 +3,7 @@
 
 <img align="center" width="250px" style="margin-top:-20px" src="https://github.com/MaxelaMartins/MaxelaMartins/assets/84980724/76818de9-fcdb-41d7-a3b6-41ec5c718286">
 
-<img align="left" width="600px" style="margin-top:-20px" src="https://github.com/MaxelaMartins/MaxelaMartins/assets/84980724/8ee74952-5c6f-4991-8cb8-a41f2d7b05b8">
+<img align="center" width="600px" style="margin-top:-20px" src="https://github.com/MaxelaMartins/MaxelaMartins/assets/84980724/8ee74952-5c6f-4991-8cb8-a41f2d7b05b8">
 
 ## Contats:
 <div>

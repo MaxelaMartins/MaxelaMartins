@@ -1,4 +1,11 @@
 ## Olá Ferinhas !
+ 🔭 Trabalhando no TCC.
+ 🌱 Atualmente estudando Cientista de Dados e Hard skills 
+- 👯 Participo de um projeto de Mapa Acessível no Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
+  
+
+
+
 
 <img align="center" width="250px" style="margin-top:-20px" src="https://github.com/MaxelaMartins/MaxelaMartins/assets/84980724/76818de9-fcdb-41d7-a3b6-41ec5c718286">
 

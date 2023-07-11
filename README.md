@@ -2,7 +2,7 @@
  - 🔭 Trabalhando em um projeto Hard Skills .
  - 🌱 Atualmente estudando Ciencias de Dados e Hard skills 
  - 👯 Participo de um projeto de Mapa Acessível na Universidade Federal do Ceará.  
-  
+    
 
 
 

@@ -1,7 +1,7 @@
 ## Olá Ferinhas !
- 🔭 Trabalhando no TCC.
- 🌱 Atualmente estudando Cientista de Dados e Hard skills 
-- 👯 Participo de um projeto de Mapa Acessível no Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
+ - 🔭 Trabalhando em um projeto Hard Skills .
+ - 🌱 Atualmente estudando Ciencias de Dados e Hard skills 
+ - 👯 Participo de um projeto de Mapa Acessível na Universidade Federal do Ceará.  
   
 
 

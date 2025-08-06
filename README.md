@@ -2,8 +2,7 @@
  - 🔭 Trabalhando em pesquisas voltadas para a área de automação de dados e Análise de dados.
  - 🌱 Atualmente na  área de qualidade de software e Também na Eduacação 
  - 👯 Sou Engenheira da Computação e também Mestranda em Engenharia Eletrica e computação
- -  Linguahens: Java, JavaScript, Paython
-    
+
 
 
 <img align="center" width="250px" style="margin-top:-20px" src="https://github.com/MaxelaMartins/MaxelaMartins/assets/84980724/76818de9-fcdb-41d7-a3b6-41ec5c718286">

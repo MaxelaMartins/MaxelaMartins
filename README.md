@@ -1,7 +1,7 @@
-## Olá Ferinhas !
- - 🔭 Trabalhando em um projeto Hard Skills .
- - 🌱 Atualmente estudando Ciencias de Dados e Hard skills 
- - 👯 Participo de um projeto de Mapa Acessível na Universidade Federal do Ceará.  
+## Olá Ferinhas ! Eu me chama Maxela 
+ - 🔭 Trabalhando em pesquisas voltadas para a área de automação de dados e Análise de dados.
+ - 🌱 Atualmente na  área de qualidade de software e Também na Eduacação 
+ - 👯 Sou Engenheira da Computação e também Mestranda em Engenharia Eletrica e computação  
     
 
 
